@@ -1,2 +1,2 @@
 # Svietimo-istaigos
-Šioje repozitorijoje pateikiami duomenys apie Kauno švietimo įstaigas
+Šioje repozitorijoje bus kaupiami duomenys apie bibliotekas Kaune.
