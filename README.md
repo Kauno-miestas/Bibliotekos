@@ -1,2 +1,2 @@
 # Svietimo-istaigos
-Šioje repozitorijoje bus kaupiami duomenys apie bibliotekas Kaune.
+Šioje repozitorijoje kaupiami duomenys apie bibliotekas Kaune.
